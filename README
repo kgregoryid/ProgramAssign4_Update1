@@ -1,18 +1,1 @@
-Welcome to your Appcelerator Titanium Mobile Project
-
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
-
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+Reviewer 1: I did not find any visible errors in the code. I have not seen the line: (aboutWin.open, modal : true) before but it makes sense. The developer did not use percentages consistently through out the code which makes it hard to adjust the text sizes when running the code. The code has two windows. The first window has the developers name, major, and contact information. Linking the first page to the second window is achieved through a button. The second page contains and summary and her skills. I like the grey background on the landing page. Instead of using a button to naviagate through the two windows I would recommend using tabs. Tabs allos for the navigation to be more standard and easier to understand. Using tabs allows for fewer errors since you do not have to add an event listener. The app runs best on a cell phone. Since the code is not written in percentages the code does not transfer over to a tablet or ipad very well. The code is primarily set for one device. I would recommend using percentages next time. 
